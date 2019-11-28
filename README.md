@@ -1,6 +1,9 @@
-# flutter_app
+# flutter_sapmle
 
-A new Flutter application.
+flutterハンズオンのサンプルアプリ
+https://flutter.dev/docs/get-started/codelab
+
+ソースコードのライセンスは上記のリンク先に依存します。
 
 ## Getting Started
 
