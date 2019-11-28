@@ -3,7 +3,7 @@
 flutterハンズオンのサンプルアプリ
 https://flutter.dev/docs/get-started/codelab
 
-ソースコードのライセンスは上記のリンク先に依存します。
+ソースコードのライセンスは上記のリンク先に準拠します。
 
 ## Getting Started
 
